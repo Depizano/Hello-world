@@ -1,7 +1,9 @@
-# Hello-world
+
 # Project Title
 
 A concise one-liner or brief description that captures the essence of your project.
+
+*Insert Profile banner or logo*
 
 ![Project Banner](link-to-your-image) <!-- Optional: Add a banner image or logo -->
 
@@ -17,9 +19,11 @@ Highlight key features and functionalities of your project.
 
 List the software and tools needed to run the project:
 
-- Node.js v14+
-- npm v6+
-- Any other dependencies or tools.
+(For Example)
+
+1. Node.js v14+
+2. npm v6+
+3. Any other dependencies or tools.
 
 ## 🛠️ Installation
 
